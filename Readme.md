@@ -18,8 +18,8 @@
 <h3><p align="center"> 📁 Acceso al proyecto<p><h3>
 
 El proyecto se puede descargar de dos formas:
-- `Descarga 1`:En formato zip con el link https://github.com/ECG301997/cajero-angular-Springboot/archive/refs/heads/master.zip
-- `Descarga 2`:En la consola bash mediante el comando git clone https://github.com/ECG301997/cajero-angular-Springboot.git
+- `Descarga 1`:En formato zip con el link https://github.com/ECG301997/transferencias_bancarias/archive/refs/heads/master.zip
+- `Descarga 2`:En la consola bash mediante el comando git clone https://github.com/ECG301997/transferencias_bancarias.git
 
 <h3><p align="center">🛠️ Abre y ejecuta el proyecto<h3>
 
